@@ -45,13 +45,8 @@ It's a course registration form for a fictional online course platform. The form
 
 ---
 
-## 📸 Screenshots
 
-*Add your screenshots here once you run the project locally. Example:*
 
-![Form Screenshot](screenshot.png)
-
----
 
 ## 🎯 Form Validation Rules
 
